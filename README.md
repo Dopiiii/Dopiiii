@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="https://i.guns.lol/DK3aH6.jpg" alt="Profile Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
-</div>
 
-<div align="center">
-
-<img src="https://i.guns.lol/URKu6h.jpg" alt="ATSDopi" width="150" height="150" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;" />
+<img src="https://images.guns.lol/c9670f9e8d98c74423b4262f18e004370b1570b3/URKu6h.jpg" alt="ATSDopi" width="150" height="150" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;" />
 
 # **ATSDopi** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px" style="vertical-align: middle;">
 
